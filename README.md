@@ -1,6 +1,6 @@
-Zolan - Modern & Minimal Theme for Jekyll
+Zolan - Modern & Minimal Theme for yuner
 ======
-Zolan is a minimal blog theme for Jekyll.
+Zolan is a minimal blog theme for yuner.
 
 * * *
 
